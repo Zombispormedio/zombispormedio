@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Gif](https://gifmood.glitch.me?mood=happy)
-
 <!--
 **zombispormedio/zombispormedio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
